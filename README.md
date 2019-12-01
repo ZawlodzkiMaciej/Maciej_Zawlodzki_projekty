@@ -1,4 +1,4 @@
-# Maciej_Zawlodzki_projekty
+# Plan pracy na semestr zimowy 2019/2020
 
 Daty spotkań:
 
