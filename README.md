@@ -24,4 +24,4 @@ Tematy projektów:
 * 20.11.2019r. - Projekt nr 2: Program liczący miesięczne raty kredytu oraz kwotę zwrotu
 * 4.12.2019r. - Projekt nr 3: Kalkulator 
 * 18.12.2019r. - Projekt nr 4: Program do zamiany liczb z rzymskich na arabskie i z arabskich na rzymskie
-* 15.01.2020r. - Projekt nr 5:
+* 15.01.2020r. - Projekt nr 5: Program liczący maksymalny moment w belce wspornikowej i wolnopodpartej
